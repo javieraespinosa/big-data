@@ -1,20 +1,24 @@
 ---
 # Display name
-title: Camille Boutar
+title: Riccardo Tommasini
 
 # Role/position
-role: Campus Manager, RH
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Sopra Steria
+  - name: INSA Lyon / LIRIS-CNRS
     url: ''
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-- Academic Recruitment
+# interests:
+# - Databases
+# - Data-intensive applications
+# - Human-Computer Interaction
+
 
 #education:
 #  courses:
@@ -36,12 +40,20 @@ social:
 
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/camille-boutar-1b179b84
+    link: https://www.linkedin.com/in/rictomm/
+
+  - icon: globe
+    icon_pack: fas
+    link: https://www.riccardotommasini.com
+
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:riccardo.tommasini@liris.cnrs.fr' # For a direct email link, use "mailto:test@example.org".
+
 
   # - icon: envelope
   #   icon_pack: fas
   #   link: '' # For a direct email link, use "mailto:test@example.org".
-
 
   # - icon: twitter
   #   icon_pack: fab
@@ -66,8 +78,8 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - "Sopra Steria"
-  - "Invited Experts"
+  - "Lecturers"
+
 
 highlight_name: true
 ---
